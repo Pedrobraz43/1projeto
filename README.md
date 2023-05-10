@@ -2,7 +2,14 @@
 <br>
 <br>
 <h2>Esse Projeto Aprendi no <a href="https://rodolfomori.com.br/devclub">DevCLub</a></h2>
-<h3>Abaixo  Mostrarei a Adaptação de Cada Dispositivo</h3>
+<br>
+<br>
+<h3>Tecnologias Usadas<h3>
+  -HTML-
+  -CSS-
+  <h4>Abaixo Modelos De Cada Dispositivos<h4>
+<br>
+<br>
 <p>DESKTOP</p>
 <img src="https://raw.githubusercontent.com/Pedrobraz43/1projeto/master/img/Desktop.png">
 <br>
