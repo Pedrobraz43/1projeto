@@ -5,3 +5,7 @@
 <h3>Abaixo  Mostrarei a Adaptação de Cada Dispositivo</h3>
 <p>DESKTOP</p>
 <img src="https://raw.githubusercontent.com/Pedrobraz43/1projeto/master/img/Desktop.png">
+<br>
+<br>
+<p>Mobile</p>
+< img src ="https://github.com/Pedrobraz43/1projeto/blob/master/img/Mobile.png?raw=true">
