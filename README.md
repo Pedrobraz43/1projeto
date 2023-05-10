@@ -8,4 +8,4 @@
 <br>
 <br>
 <p>Mobile</p>
-< img src ="https://github.com/Pedrobraz43/1projeto/blob/master/img/Mobile.png?raw=true">
+<img src="https://github.com/Pedrobraz43/1projeto/blob/master/img/Mobile.png?raw=true">
